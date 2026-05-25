@@ -23,6 +23,4 @@ Open your terminal and run the following command to install the required externa
 ```bash
 pip install streamlit pypdf requests
 
-**## Intialize the Application**
-
 streamlit run job_match.py
