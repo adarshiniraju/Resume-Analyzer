@@ -22,5 +22,4 @@ The application features a robust type-checking data pipeline and an integrated 
 Open your terminal and run the following command to install the required external library environments:
 ```bash
 pip install streamlit pypdf requests
-
 streamlit run job_match.py
